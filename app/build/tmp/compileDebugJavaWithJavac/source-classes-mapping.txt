@@ -1,0 +1,10 @@
+com/cc/codingchallenge/databinding/ItemLoadingStateBinding.java
+ com.cc.codingchallenge.databinding.ItemLoadingStateBinding
+com/cc/codingchallenge/databinding/ItemMarketBinding.java
+ com.cc.codingchallenge.databinding.ItemMarketBinding
+com/cc/codingchallenge/BuildConfig.java
+ com.cc.codingchallenge.BuildConfig
+com/cc/codingchallenge/databinding/ActivityDetailsBinding.java
+ com.cc.codingchallenge.databinding.ActivityDetailsBinding
+com/cc/codingchallenge/databinding/ActivityMainBinding.java
+ com.cc.codingchallenge.databinding.ActivityMainBinding
